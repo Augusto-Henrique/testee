@@ -1,3 +1,4 @@
+const id = 0;
 const desenvolvedor = {
     nome: "João Victor",
     idade: 20,
